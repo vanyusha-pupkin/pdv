@@ -1,7 +1,7 @@
-# Проект «---»
+# Проект «pdv»
 
 ---
-## Ссылка на сайт - [https://vanyusha-pupkin.github.io/---/](https://vanyusha-pupkin.github.io/---/)
+## Ссылка на сайт - [https://vanyusha-pupkin.github.io/pdv/](https://vanyusha-pupkin.github.io/pdv/)
 
 ## Как использовать
 
