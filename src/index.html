@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html class="page" lang="ru">
+
+    <!-------------------- head -------------------->
+
+@@include('html/_head.html', {
+  'title': ''
+})
+
+  <body class="page__body  page-body">
+    <div class="page__wrapper">
+
+
+      <!----------------- svg-sprite ----------------->
+<!--       <div class="visually-hidden">
+        @include('img/svg-sprite/sprite.svg')
+      </div> -->
+
+      <!------------------- content ------------------>
+
+      <main class="page__main  page-main">
+
+      </main>
+
+
+    <!------------------- footer ------------------->
+    @@include('html/_footer.html', {})
+
+    </div>  <!-- page-body__wrapper -->
+
+    <!---------------- modal-windows --------------->
+    <!-- @include('html/_modal.html', {}) -->
+
+    <!------------- script-connection -------------->
+    <script src="js/script.js"></script>
+
+  </body>
+</html>
